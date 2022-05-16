@@ -1,0 +1,12 @@
+{
+  "name": "day01b-kami",
+  "version": "1.0.0",
+  "description": "Advent of Code 01b",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kami",
+  "license": "ISC"
+}
