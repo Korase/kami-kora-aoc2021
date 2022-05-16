@@ -1,5 +1,5 @@
 import * as fs from 'fs';
-import {windows} from '../utility.mjs';
+import {windows} from '../../utility.mjs';
 
 fs.readFile('./input.txt', 'utf8', (err, data) => {
   console.log(
