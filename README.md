@@ -2,7 +2,7 @@
 Advent of Code 2021 Solutions By Kami &amp; Kora
 <h3>Table of contents</h3>
 <ul>
-<li>[Day 01](#Day1)</li>
+[Day 01](#Day1)
 <li></li>
 <li></li>
 <li></li>
