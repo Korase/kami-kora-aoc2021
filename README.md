@@ -1,7 +1,7 @@
 # kami-kora-aoc2021
 Advent of Code 2021 Solutions By Kami &amp; Kora
 <h3>Table of contents</h3>
-[Day 01](#Day1)
+[Day 01](https://github.com/Korase/kami-kora-aoc2021#Day1)
 <li></li>
 <li></li>
 <li></li>
