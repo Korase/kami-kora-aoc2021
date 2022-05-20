@@ -9,5 +9,5 @@ Advent of Code 2021 Solutions By Kami &amp; Kora
 - <span id="Day2">Completed Day 02 "A" and "B" - SGT 12:56<sup>21/05/2022</sup> EST 19:25<sup>17/05/2022</sup></span>
 
 ## Advent calendar Progress
-- To update
+
 <img src="adventCalendar.png">
