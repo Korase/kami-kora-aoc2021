@@ -28,5 +28,5 @@ fs.readFile('./input.txt', 'utf8', (err, data) => {
     }
   });
 
-  console.log("Depth times Horizontal: " + depth * horizontal);
+  console.log(`Depth times Horizontal: ${depth * horizontal}`);
 });
